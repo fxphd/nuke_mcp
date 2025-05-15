@@ -2,6 +2,8 @@
 
 A bridge between The Foundry's Nuke and AI systems using the Model Context Protocol (MCP).
 
+![Nuke MCP](mcp.PNG)
+
 ## Overview
 
 Nuke-MCP allows AI assistants to interact with Nuke through a socket connection, enabling them to:
